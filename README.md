@@ -1,4 +1,5 @@
-  💖 I fall in love with programming!
-   🐍 I’m currently learning "Python".
+  _ 💖 I fall in love with programming!
+  
+   _ 🐍 I’m currently learning "Python".
 
 
