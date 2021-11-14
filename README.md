@@ -1,8 +1,7 @@
 # :wave: Hey There! I'm Fateme Hosseini.  #
 ###  :computer: Computer Programmer and Pythonist from IRAN  :iran:  :computer: ###
 ---
-
- ![](https://st2.depositphotos.com/1032577/5312/i/380/depositphotos_53128333-stock-photo-about-me-sign.jpg)
+ ![](https://imgprx.livejournal.net/4ea3c9853f469e66433e1ba01bb8a75d685f54d9/YhLdR68Z0OwssUlGsqC0zTdPbnpD-AgcusF5necJIVug6IN6fPgkWJDp4HN2zOwNdCMCAlhWI5hZZkIyidEJWb2K-PNVlTrkXxN5OZRgdMA)
 - I graduated with a **Bachelor degree** in **Computer Engineering(Software)**.👩‍🎓
 - I am familiar with the **C language family** : C / C++ / C#
 - I’m currently learning  **Python** .:snake:
