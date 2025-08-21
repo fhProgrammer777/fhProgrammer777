@@ -1,37 +1,47 @@
-# :wave: Hey There! I'm Fateme Hosseini.  #
-###  :computer: Computer Programmer and Pythonist from IRAN  :iran:  :computer: ###
----
- ![](https://imgprx.livejournal.net/4ea3c9853f469e66433e1ba01bb8a75d685f54d9/YhLdR68Z0OwssUlGsqC0zTdPbnpD-AgcusF5necJIVug6IN6fPgkWJDp4HN2zOwNdCMCAlhWI5hZZkIyidEJWb2K-PNVlTrkXxN5OZRgdMA)
-- I graduated with a **Bachelor degree** in **Computer Engineering(Software)**.👩‍🎓
-- I am familiar with the **C language family** : C / C++ / C#
-- I’m currently learning  **Python** .:snake:
-- I enjoy learning new things and purposefully working toward and achieving goals. :muscle::muscle::muscle:
-- I'm interested in growing,helping and I'm trying to be an excellent programer! :sunglasses:
-- I'm a passionate self-learner. :woman_technologist:
-- I’m looking to collaborate with other Programer. :earth_asia: :handshake:
+# 👋 Hey There! I'm Fateme Hosseini  
+
+💻 Computer Programmer & Python Enthusiast from IRAN 🇮🇷  
 
 ---
-#### I love connecting with different people so if you want to know each other better, I'll be happy to meet you! 😊 ####
-![7264637cd9e3a3e80739acf1a9c619f8](https://user-images.githubusercontent.com/30872684/141693399-ccc50f34-2c54-49f7-bfde-80543e9d9f02.jpg)
 
-[![linkedin](https://user-images.githubusercontent.com/30872684/142379074-32da1cd1-f54f-4243-a355-169d7c842d04.png)][1]
-[![Quera](https://user-images.githubusercontent.com/30872684/142379515-9234d43f-c9b2-41d7-a3b9-59b2f22241c7.png)][2]
-[![Leetcode](https://user-images.githubusercontent.com/30872684/142379618-121ddbaa-3548-4fd5-b934-09fdac71cc0b.png)][3]
-[![Hackerrank](https://user-images.githubusercontent.com/30872684/142379688-1ce61acd-f072-47a0-a24f-b3580ba61ca3.png)][4]
-[![GFG](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][5]
-[![Telegram](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][6]
-[![Instagram](https://user-images.githubusercontent.com/30872684/142381630-5520f960-c2ed-4329-9a46-00c489f765ba.png)][7]
-
-[1]: http://linkedin.com/in/fateme-hosseini-183aa2133
-[2]: https://quera.ir/profile/mv9t9m
-[3]: https://leetcode.com/ft_hs1396/
-[4]: https://www.hackerrank.com/fh_Programer777
-[5]: https://auth.geeksforgeeks.org/user/fhprogramer777
-[6]: https://t.me/Fateme00Hosseini
-[7]: https://www.instagram.com/ft_hs1396/
+## 🎓 About Me
+- 🎓 Bachelor’s degree in **Computer Engineering (Software)**  
+- 👩‍💻 Passionate self-learner, curious about new technologies  
+- 🌍 Love connecting & collaborating on exciting projects  
 
 ---
-:sparkling_heart: **Thanks for taking the time to read my profile. I wish health, happiness, wealth and success to all the people of the world.** :pray: :hibiscus:
+
+## 🛠️ Skills & Technologies  
+
+### 🚩 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 Currently
+- 🐍 Deepening my knowledge of **Python**  
+- 🤝 Looking to collaborate with other **programmers**  
+- 💪 Working toward personal & professional growth  
+
+---
+
+## 📊 GitHub Stats
+![Fateme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fhProgrammer777&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhProgrammer777&layout=compact&theme=radical)
+
+---
+
+😊 Always happy to meet new people — feel free to connect!
+
 
 
 
