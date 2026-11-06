@@ -1,48 +1,69 @@
-# 👋 Hey There! I'm Fateme Hosseini  
 
-💻 Computer Programmer & Python Enthusiast from IRAN 🇮🇷  
+# Hi, I'm Fatemeh Hosseini
+
+**Software Engineering Graduate | Health Information Technology Master's Student**
+
+I am a Software Engineering graduate currently pursuing a Master's degree in Health Information Technology.
+
+My background combines software development experience, university administrative work, and an interest in technology-driven problem solving.
+
+I enjoy exploring new technologies, learning through hands-on projects, and turning ideas into practical solutions. I am particularly interested in the intersection of software development, artificial intelligence, data, and healthcare.
+
+## About Me
+
+- 🎓 B.Sc. in Computer Software Engineering
+- 🎓 M.Sc. student in Health Information Technology (HIT)
+- 💻 Former C# developer with end-to-end coding experience in an educational software project
+- 🏢 12+ years of experience in a university administrative environment
+- 📊 Experience in data entry, data management, and administrative information systems
+- 📚 Interested in continuous learning and project-based development
+
+## Technical Skills
+
+**Programming**
+- C# — Previous professional project experience
+- Java — Academic projects and object-oriented programming
+- Python — Foundational knowledge
+
+**Tools & Technologies**
+- Git and GitHub
+- SQLite — Academic project experience
+- Power BI — Learning and exploration
+- HTML, CSS, JavaScript — Familiarity
+
+## Projects
+
+### Jahan Kavosh — Educational Software
+**C# | Software Development**
+
+Worked as the developer of an educational software project, taking responsibility for the coding and implementation.
+
+### Java Course Registration System
+**Java | Object-Oriented Programming | SQLite**
+
+An academic project focused on modeling a course registration system using object-oriented programming concepts.
+
+Project documentation and source code are being organized for publication.
+
+## Professional Interests
+
+- Software Development
+- Artificial Intelligence and AI-assisted Development
+- Healthcare Information Technology
+- Data Management and Analysis
+- Digital Health Solutions
+- Technology-driven Problem Solving
+
+## Beyond Coding
+
+I also enjoy photography, creative writing, visual storytelling, and developing ideas for practical projects.
+
+## Connect With Me
+
+- **LinkedIn:** [Fatemeh Hosseini](https://www.linkedin.com/in/fateme-hosseini-183aa2133/)
+- **Quera:** [My Quera Profile](https://quera.org/qcv/)
+- **GitHub:** [fhProgrammer777](https://github.com/fhProgrammer777)
 
 ---
 
-## 🎓 About Me
-- 🎓 Bachelor’s degree in **Computer Engineering (Software)**  
-- 👩‍💻 Passionate self-learner, curious about new technologies  
-- 🌍 Love connecting & collaborating on exciting projects  
-
----
-
-## 🛠️ Skills & Technologies  
-
-### 🚩 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🚀 Currently
-- 🐍 Deepening my knowledge of **Python**  
-- 🤝 Looking to collaborate with other **programmers**  
-- 💪 Working toward personal & professional growth  
-
----
-
-## 📊 GitHub Stats
-![Fateme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fhProgrammer777&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fhProgrammer777&layout=compact&theme=radical)
-
----
-
-😊 Always happy to meet new people — feel free to connect!
-
-
-
-
-
+*Learning, exploring, and building practical solutions.*
